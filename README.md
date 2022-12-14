@@ -1,2 +1,5 @@
 # 2022_end
-what to build by 2023
+
+# landing page
+# sign up form
+# rock paper scissors
